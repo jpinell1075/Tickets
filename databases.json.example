@@ -1,0 +1,19 @@
+{
+  "connections": [
+    {
+      "name": "mysql",
+      "driver": "mysql",
+      "database": "test",
+      "host": "localhost",
+      "port": 3306,
+      "username": "root",
+      "password": "",
+      "prefix": null,
+      "prefix_indexes": null,
+      "foreign_key_constraints": true,
+      "busy_timeout": null,
+      "journal_mode": null,
+      "synchronous": null
+    }
+  ]
+}

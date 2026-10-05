@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'operative_system' => 'Sistema Operativo',
+    'operative_system_arquitecture' => 'Arquitectura del Sistema Operativo',
+    'operative_system_version' => 'Versión del Sistema Operativo',
+    'size' => 'Tamaño',
+    'color' => 'Color',
+    'ports_number' => 'Número de Puertos',
+    'switch_canal' => 'Fibra Canal',
+    'mac_address' => 'Dirección MAC',
+    'cpu' => 'Procesador',
+    'cpu_model' => 'Modelo del Procesador',
+    'storage' => 'Almacenamiento',
+    'storage_type' => 'Tipo de Almacenamiento',
+    'storage_capacity' => 'Capacidad de Almacenamiento',
+    'ram' => 'Memoria RAM',
+    'ram_type' => 'Tipo de Memoria RAM',
+    'ram_capacity' => 'Capacidad de Memoria RAM',
+    'ram_speed' => 'Velocidad de Memoria RAM',
+    'gpu' => 'Tarjeta Gráfica',
+    'gpu_model' => 'Modelo de la Tarjeta Gráfica',
+    'gpu_memory' => 'Memoria de la Tarjeta Gráfica',
+    'wifi_card' => 'Tarjeta de Red Inalámbrica',
+    'wifi_card_model' => 'Modelo de la Tarjeta de Red Inalámbrica',
+    'wifi_card_speed' => 'Velocidad de la Tarjeta de Red Inalámbrica',
+];
